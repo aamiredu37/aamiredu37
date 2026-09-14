@@ -1,7 +1,7 @@
 # Aamir Zeb
 
 **Full-Stack Web Developer** · Python · Django · React · Laravel  
-Lab Engineer, Department of Computer Science, Bahria University, Islamabad
+Former Lecturer, Lab Engineer, Department of Computer Science, Bahria University, Islamabad
 
 I build production web systems for workflow, records, reporting, computer vision and media processing. Of eight shipped applications I was sole developer on six, backend developer on one, and front-end developer on one.
 
@@ -42,3 +42,4 @@ I build production web systems for workflow, records, reporting, computer vision
 ## Currently studying
 
 Django internals, React, REST and RBAC, applied computer vision, and offline LLM tooling. Workshop attendance only (not claimed as professional certification): DevOps / IaC, AI agents and MCP, AI in cybersecurity.
+Adv TOC, Adv DAA, RM, Adv OS, Adv CA, ANLP
